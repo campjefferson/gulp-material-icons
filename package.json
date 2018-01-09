@@ -6,15 +6,13 @@
   "scripts": {
     "test": "jshint index.js test/*.js && mocha"
   },
-  "files": [
-    "index.js"
-  ],
+  "files": ["index.js"],
   "author": "shakyshane",
   "license": "ISC",
   "dependencies": {
     "gulp-util": "^3.0.4",
     "lodash.clonedeep": "^3.0.0",
-    "material-design-icons": "^1.0.1",
+    "material-design-icons": "latest",
     "vinyl-fs": "^0.3.13",
     "xml2js": "^0.4.5"
   },
@@ -24,9 +22,5 @@
     "jshint": "^2.6.0",
     "mocha": "^2.1.0"
   },
-  "keywords": [
-    "gulp plugin",
-    "google material icons",
-    "svg"
-  ]
+  "keywords": ["gulp plugin", "google material icons", "svg"]
 }
