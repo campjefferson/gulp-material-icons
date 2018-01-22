@@ -1,12 +1,6 @@
-## gulp-material-icons
+## gulp-material-icons (Camp J Update)
 
-Utilise [Google's Material Design Icon Set](https://github.com/google/material-design-icons) in a sane way - serving only the 
-icons you actually use.
-
-## Install 
-```bash
-npm install gulp-material-icons
-```
+Utilise [Google's Material Design Icon Set](https://github.com/google/material-design-icons) in a sane way - serving only the icons you actually use.
 
 ### Example Gulp Task
 You simply pass in an array of task & you'll get back a `src` stream that you can pipe to other tasks.
