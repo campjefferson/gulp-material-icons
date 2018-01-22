@@ -3,7 +3,7 @@ var File = require('gulp-util').File;
 var gutil = require('gulp-util');
 var cloneDeep = require('lodash.clonedeep');
 
-const PLUGIN_NAME = 'gulp-material-icons';
+const PLUGIN_NAME = 'gulp-material-icons-latest';
 
 module.exports = function(opts) {
   opts = opts || {};
