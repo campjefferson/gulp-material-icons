@@ -1,6 +1,6 @@
 {
   "name": "gulp-material-icons-latest",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Utilise Google's Material Design Icon Set in a sane way - serving only the icons you actually use.",
   "repository": "https://github.com/campjefferson/gulp-material-icons.git",
   "main": "index.js",
